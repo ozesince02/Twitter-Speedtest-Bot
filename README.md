@@ -30,7 +30,7 @@ To set up the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/internet-speed-twitter-bot.git
+   git clone https://github.com/ozesince02/Twitter-Speedtest-Bot.git
    ```
 
 2. Navigate to the project directory:
